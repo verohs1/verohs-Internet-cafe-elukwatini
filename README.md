@@ -1,2 +1,3 @@
 # verohs-Internet-cafe-elukwatini
-A new app for verohs intenet cafe elukwatini.
+A new app for verohs intenet cafe elukwatini. An app to help our clients order services from their home.
+Verohs Internet Cafe Nhlazatshe is a Mpumalanga based Branch of Verohs Internet Cafe line of print and copy shops. Verohs Internet Cafe is a multi-branch and multi-location Internet cafe that strives to extend best Internet, copy and print services to lower and middle class areas of Gauteng, Mpumalanga, and Kwazulu-Natal at the most competitive prices. Our aim is to grow our presence in most parts of Gauteng, Mpumalang, and Kwazulu-Natal. We currently have Branches in KwaZulu-Natal, Gauteng, and Mpumalanga. We opened up a main operations branch in Johannesburg CBD under our sister company Verohs Printers. This is were extensive print operations take place.'
